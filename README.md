@@ -1,4 +1,4 @@
-# Cours B1 - .Net et BDD
+# Cours B1 - EPSI - .Net et BDD
 
 
 Utilisation de SQL Server : 
